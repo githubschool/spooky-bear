@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Made changes
+My Caption - sathya
 
 ![defunktocat](https://octodex.github.com/images/defunktocat.png)
 {: .center}
