@@ -1,4 +1,4 @@
-# GitHub for Developers :taco:
+# GitHub for Developers :unicorn:
 
 - Class Date: October 11-14, 2021
 - Facilitator: @allthedoll
